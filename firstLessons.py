@@ -70,8 +70,9 @@ tupla=(1,2,3,"sup")
 #la funcion count(elemento) nos retorna el no. de veces que se repite el elemento en la tupla
 
 #------------------------------------------------------conjuntos
+#con los conjuntos podemos operar con teoria de conjuntos
 # conjunto=set()
-# conjunto={1,2,3}
+conjunto={1,2,3}
 # conjunto.add(0)
 # conjunto.add('A')
 # conjunto.add('Z')
@@ -95,7 +96,7 @@ tupla=(1,2,3,"sup")
 
 #-----------------------------------------------------diccionarios
 #son colecciones desordenadas, mutables
-#diccionario={'palabra_clave':'definicion'}
+diccionario={'palabra_clave':'definicion'}
 #se selecciona o borra un elemento por su palabra clave
 #print(diccionario['palabra_clave'])
 #del(diccionario['palabra_clave'])
